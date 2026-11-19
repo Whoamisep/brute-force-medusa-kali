@@ -70,4 +70,4 @@ Conclusão
 O projeto permitiu praticar três tipos de ataque de autenticação (FTP, web-form e SMB) em ambiente controlado, reforçando as diferenças entre as abordagens de força bruta testadas (dicionário, numérica e combinada usuário × senha), além de técnicas de troubleshooting ao comparar o comportamento de diferentes ferramentas contra o mesmo alvo.
 
 Aviso
-Projeto educacional, executado 100% em laboratório isolado (rede host-only), sem impacto em sistemas de terceiros.
+Projeto educacional, executado 100% em laboratório isolado, sem impacto em sistemas de terceiros.
